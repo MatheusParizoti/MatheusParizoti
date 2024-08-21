@@ -1,11 +1,15 @@
-Ola bora codar?? 🚀🚀🍀
+Ola Eu sou Matheus Parizoti e seja bem-vindo ao meu Git
+
+bora codar?? 🚀🚀🍀
 
 <div>
   <a href="https://beacons.ai/MatheusParizoti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusParizoti&layout=donut&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=cobalt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusParizoti&layout=donut&theme=cobalt">
 </div>
 
+
+## Essas são algumas das minhas linguagens que eu aprendi e continuo aprendendo e evoluindo
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
