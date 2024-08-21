@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div>
-  <a href="https://beacons.ai/JoaoKleber0fficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoKleber0fficial&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKleber0fficial&layout=donut&theme=dark">
+  <a href="https://beacons.ai/MatheusParizoti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=pink">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusParizoti&layout=donut&theme=pink">
 </div>
 
 <div style="display: inline_block"><br>
