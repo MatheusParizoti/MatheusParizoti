@@ -1,9 +1,9 @@
-## Hi there 👋
+Ola bora codar?? 🚀🚀🍀
 
 <div>
   <a href="https://beacons.ai/MatheusParizoti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=pink">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusParizoti&layout=donut&theme=pink">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusParizoti&layout=donut&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
