@@ -1,6 +1,6 @@
 ## Ola Eu sou Matheus Parizoti 
 
-# seja bem-vindo ao meu Git
+ seja bem-vindo ao meu Git
 
 bora codar?? 🚀🚀🍀
 
@@ -11,7 +11,7 @@ bora codar?? 🚀🚀🍀
 </div>
 
 
-# Essas são algumas das minhas linguagens que eu aprendi e continuo aprendendo e evoluindo
+ Essas são algumas das minhas linguagens que eu aprendi e continuo aprendendo e evoluindo
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
