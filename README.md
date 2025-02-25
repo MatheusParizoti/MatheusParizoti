@@ -29,7 +29,7 @@ bora codar?? 🚀🚀🍀
 
 </div>
 
-**My frequency**
+
 
 <img src="https://raw.githubusercontent.com/MatheusParizoti/MatheusParizoti/output/snake.svg" alt="Snake animation" />
 
