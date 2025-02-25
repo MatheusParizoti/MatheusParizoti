@@ -29,6 +29,12 @@ bora codar?? 🚀🚀🍀
 
 </div>
 
+**My frequency**
+
+<img src="https://raw.githubusercontent.com/MatheusParizoti/MatheusParizoti/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **MatheusParizoti/MatheusParizoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
