@@ -2,10 +2,10 @@
 
 ###  Welcome to my Git
 
-<p align="center">
-  Student of <strong>Data Intelligence and Analytics</strong><br>
-  Passionate about technology, data, and development<br>
-  Always looking for challenges and continuous learning
+<p>
+  * Student of <strong>Data Intelligence and Analytics</strong><br>
+  * Passionate about technology, data, and development<br>
+  * Always looking for challenges and continuous learning
 </p>
 
 <div>
@@ -17,7 +17,7 @@
 
 ## 🚀 Tecnologias que domino
 
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
