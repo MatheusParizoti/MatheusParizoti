@@ -19,10 +19,15 @@
 
 <div >
     <img src="https://img.icons8.com/color/96/python--v1.png" width="50" alt="Python"/>
+ 
   <img src="https://img.icons8.com/color/96/mongodb.png" width="50" alt="MongoDB"/>
+  
   <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="50" alt="MySQL"/>
+  
   <img src="https://img.icons8.com/color/96/docker.png" width="50" alt="Docker"/>
+  
   <img src="https://img.icons8.com/color/96/ms-excel.png" width="50" alt="Excel"/>
+  
   <img src="https://img.icons8.com/color/96/power-bi.png" width="50" alt="Power BI"/>
 </div>
 
