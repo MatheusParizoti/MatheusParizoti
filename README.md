@@ -1,6 +1,12 @@
 # Ola Eu sou Matheus Parizoti 
 
-### seja bem-vindo ao meu Git
+###  Welcome to my Git
+
+<p align="center">
+  Student of <strong>Data Intelligence and Analytics</strong><br>
+  Passionate about technology, data, and development<br>
+  Always looking for challenges and continuous learning
+</p>
 
 <div>
   <a href="https://beacons.ai/MatheusParizoti">
@@ -9,27 +15,37 @@
 </div>
 
 
-### Essas são algumas das minhas linguagens que eu aprendi e continuo aprendendo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="htmlL" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
+## 🚀 Tecnologias que domino
 
-
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </div>
+
+---
+
+## Sobre mim
+
+Sou um desenvolvedor em formação com foco em **Inteligência e Análise de Dados**. Gosto de resolver problemas com lógica e dados, e acredito que a tecnologia é uma ponte para transformar ideias em soluções reais. Estou constantemente aprendendo e buscando novas formas de melhorar minhas habilidades técnicas e analíticas.
+
+I'm a developer in training focused on **Data Intelligence and Analytics**. I enjoy solving problems using logic and data, and I believe technology is a bridge to turn ideas into real solutions. I'm constantly learning and always looking for new ways to improve my technical and analytical skills.
 
 
 
 <img src="https://raw.githubusercontent.com/MatheusParizoti/MatheusParizoti/output/snake.svg" alt="Snake animation" />
+
+
+## Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/matheus-parizoti-de-araújo-6101172b9/)
+- Email: matheusparizoti00@gmail.com  
+- Sempre disposto a aprender e colaborar!
+
+---
 
 ###
 
