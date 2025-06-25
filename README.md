@@ -18,12 +18,12 @@
 ## 🚀 Tecnologias que domino
 
 <div >
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="60" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="60" alt="Power BI"/>
+    <img src="https://img.icons8.com/color/96/python--v1.png" width="50" alt="Python"/>
+  <img src="https://img.icons8.com/color/96/mongodb.png" width="50" alt="MongoDB"/>
+  <img src="https://img.icons8.com/fluency/96/mysql-logo.png" width="50" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/96/docker.png" width="50" alt="Docker"/>
+  <img src="https://img.icons8.com/color/96/ms-excel.png" width="50" alt="Excel"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="50" alt="Power BI"/>
 </div>
 
 ---
