@@ -8,14 +8,8 @@
   * Always looking for challenges and continuous learning
 </p>
 
-<div>
-  <a href="https://beacons.ai/MatheusParizoti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusParizoti&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusParizoti&layout=donut&theme=tokyonight">
-</div>
 
-
-## 🚀 Tecnologias que domino
+## Tecnologias que domino
 
 <div >
     <img src="https://img.icons8.com/color/96/python--v1.png" width="50" alt="Python"/>
